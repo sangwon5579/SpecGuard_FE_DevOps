@@ -77,8 +77,8 @@
     <!-- Hero -->
     <section class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-16 sm:py-24 text-center">
       <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight leading-tight">
-        <span class="underline decoration-sky-400 decoration-4 underline-offset-8">당신이 상상한 만큼</span><br />
-        <span class="mt-2 inline-block underline decoration-sky-400 decoration-4 underline-offset-8">채용 오퍼레이션이 쉬워집니다.</span>
+        <span class="font-extrabold">당신이 상상한 만큼</span><br />
+        <span class="font-extrabold">채용 오퍼레이션이 쉬워집니다.</span>
       </h1>
       <p class="mt-6 text-lg text-slate-600">채용 프로세스에 필요한 모든 것을 원하는 대로 자동화할 수 있는 채용 관리 솔루션, SpecGuard</p>
       <div class="mt-8 flex items-center justify-center gap-4">
